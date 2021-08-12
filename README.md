@@ -1,4 +1,4 @@
-#SliderPuzzle-Hackathon
+# SliderPuzzle-Hackathon  
 This was completed during a one day hackathon.
 
 #### The problem:  
